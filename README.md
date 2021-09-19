@@ -1,6 +1,6 @@
 # Scriptable Word Clock Widget
 
-[![Download with ScriptDude](https://scriptdu.de/download.svg)](https://scriptdu.de/?name=Word+Clock+Widget&source=https%3A%2F%2Fraw.githubusercontent.com%2FbitKrakenCode%2FScriptableWordClockWidget%2Fmain%2FWord%2520Clock%2520Widget.js&docs=https%3A%2F%2Fgithub.com%2FbitKrakenCode%2FScriptableWordClockWidget#generator)
+[![Download with ScriptDude](https://scriptdu.de/download.svg)](https://scriptdu.de/?name=Word%20Clock%20Widget&source=https%3A%2F%2Fraw.githubusercontent.com%2FbitKrakenCode%2FScriptableWordClockWidget%2Fmain%2FWord%2520Clock%2520Widget.js&docs=https%3A%2F%2Fgithub.com%2FbitKrakenCode%2FScriptableWordClockWidget#generator)
 
 
 I made a pretty much useless word clock widget inspired by QlockTwo.
