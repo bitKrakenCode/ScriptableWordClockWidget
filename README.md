@@ -5,6 +5,9 @@
 
 I made a pretty much useless word clock widget inspired by QlockTwo.
 
+![Screenshot 2021-09-19 at 14 35 51](https://user-images.githubusercontent.com/59827320/133928177-b32f866d-0ae5-46c8-89c9-aa2cb21971e4.png)
+
+
 Features:
 
 - 21 supported languages + 4 variations
@@ -22,6 +25,9 @@ Useless, because it may not refresh the way you would hope (I did my best, more 
 But: this is my first javascript project. I did love the journey, I love the result! I hope some of you do too.
 
 If you find any bugs or or have a suggestion, please let me know.
+
+![Screenshot 2021-09-19 at 14 29 53](https://user-images.githubusercontent.com/59827320/133928185-015638e0-32f4-4098-9123-f2f0c6c4f6be.png)
+
 
 ## Language
 
@@ -65,6 +71,8 @@ Explanation of the vatiants here: [https://qlocktwo.com/eu/timecheck](https://ql
 
 The DOT Language Face is displaying the full hour as digits, using the characters as pixels. I added some extra rows/columns to it, so it looks pretty. You can apply this to any language face by setting dot_view to true in a custom theme (may needs adjusting by changing the dot_shift_* variables).
 
+![ScreenShot 2021-09-19 at 14 52 59](https://user-images.githubusercontent.com/59827320/133928211-e746e420-3f40-4183-84d9-89eaf579948f.png)
+
 ## Themes
 
 I created some themes you can use, but you can also create your own.
@@ -102,6 +110,10 @@ You can override ANY widget_config setting with your theme.
 
 Side note: there are also language fixes, so some theme settings may get overwritten by them.
 
+![Screenshot 2021-09-19 at 14 13 38](https://user-images.githubusercontent.com/59827320/133928241-e9855d9f-4985-49b3-8e19-d35793f54540.png)
+![Screenshot 2021-09-19 at 13 45 06](https://user-images.githubusercontent.com/59827320/133928267-42d8ece3-05dd-456b-81e5-544a9defdee9.png)
+
+
 ## Widget Parameters
 
 To create multiple widgets with unique language and theme parameters.
@@ -123,5 +135,8 @@ Also you can add an offset to it (default 1 minute), so you get "ten to" at 49 a
 If you set the widget "When Interacting" to "Run Script" it will update it when you click on the widget.
 
 "THIS IS USELESS, IF IT IS SHOWING ME THE WRONG TIME!!!" Ok, I get you and I got a wonderful solution for you: the Nonsense Clock Face! You will be greeted with stuff like "IT IS WHATEVER TO TEN", "IT IS IDK PAST ONE" and a very special one for 0:00 ;) Now the information is useless but not wrong.
+
+![Screenshot 2021-09-19 at 14 13 38](https://user-images.githubusercontent.com/59827320/133928251-19f645d1-7a9b-4f24-a4e2-44b47dbf3fec.png)
+
 
 You can also use the DOT face, that only updates once every hour so should be always display the right hour.
