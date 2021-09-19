@@ -110,6 +110,9 @@ You can override ANY widget_config setting with your theme.
 
 Side note: there are also language fixes, so some theme settings may get overwritten by them.
 
+![Screenshot 2021-09-19 at 13 40 53](https://user-images.githubusercontent.com/59827320/133928595-279c6208-1084-48b9-8d74-92acfb9ae7fb.png)
+![Screenshot 2021-09-19 at 13 42 49](https://user-images.githubusercontent.com/59827320/133928599-8d4d9bc9-9c72-4e11-99f6-d3e8bcc03206.png)
+
 ![Screenshot 2021-09-19 at 14 13 38](https://user-images.githubusercontent.com/59827320/133928241-e9855d9f-4985-49b3-8e19-d35793f54540.png)
 ![Screenshot 2021-09-19 at 13 45 06](https://user-images.githubusercontent.com/59827320/133928267-42d8ece3-05dd-456b-81e5-544a9defdee9.png)
 
