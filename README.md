@@ -57,7 +57,7 @@ List:
 - SE-Swedish
 - TR-Turkish
 
-Explenation of the vatiants here: [https://qlocktwo.com/eu/timecheck](https://qlocktwo.com/us/timecheck)
+Explanation of the vatiants here: [https://qlocktwo.com/eu/timecheck](https://qlocktwo.com/us/timecheck)
 
 ### DOT Face
 
