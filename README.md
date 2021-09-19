@@ -93,6 +93,9 @@ image from URL:
 image from file:
 - ocean
 
+special:
+- random (well ... it will select a random one each refresh)
+
 You can override ANY widget_config setting with your theme.
 
 Side note: there are also language fixes, so some theme settings may get overwritten by them.
