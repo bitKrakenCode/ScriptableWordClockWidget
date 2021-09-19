@@ -14,6 +14,7 @@ Features:
 - DOT Clock Face mode
 - Nonsense Clock Face
 - Support for Large and Small widgets
+- Support for Widget Parameters
 
 Useless, because it may not refresh the way you would hope (I did my best, more later).
 
