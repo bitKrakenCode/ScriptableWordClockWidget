@@ -15,6 +15,7 @@ Features:
 - Nonsense Clock Face
 - Support for Large and Small widgets
 - Support for Widget Parameters
+- Support for iOS, iPadOS, macOS
 
 Useless, because it may not refresh the way you would hope (I did my best, more later).
 
