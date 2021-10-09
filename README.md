@@ -51,6 +51,7 @@ List:
 - DK-Danish
 - EN-English
 - E2-English-Variant
+- E3-English-Variant (non official)
 - ES-Spanish
 - FR-French
 - GR-Greek
