@@ -521,11 +521,8 @@ function getHighlightedWords() {
   }
 
   // trim hours by 12 if needed
-  if (Object.keys(time_map.e).length == 12) {
+  if (!time_map.e.hasOwnProperty(hour)){
     hour = hour % 12;
-  }
-  else {
-    hour = hour % 24;
   }
 
   // display minute
