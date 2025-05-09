@@ -65,6 +65,7 @@ List:
 - RU-Russian
 - SE-Swedish
 - TR-Turkish
+- (NS-Nonsense)
 
 Explanation of the vatiants here: [https://qlocktwo.com/eu/timecheck](https://qlocktwo.com/us/timecheck)
 
@@ -139,6 +140,7 @@ Also you can add an offset to it (default 1 minute), so you get "ten to" at 49 a
 If you set the widget "When Interacting" to "Run Script" it will update it when you click on the widget.
 
 "THIS IS USELESS, IF IT IS SHOWING ME THE WRONG TIME!!!" Ok, I get you and I got a wonderful solution for you: the Nonsense Clock Face! You will be greeted with stuff like "IT IS WHATEVER TO TEN", "IT IS IDK PAST ONE" and a very special one for 0:00 ;) Now the information is useless but not wrong.
+Use the language code "NS" to use it.
 
 ![Screenshot 2021-09-19 at 14 13 38](https://user-images.githubusercontent.com/59827320/133928251-19f645d1-7a9b-4f24-a4e2-44b47dbf3fec.png)
 
